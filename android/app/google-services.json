@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "149469384461",
+    "project_id": "chat-ef91a",
+    "storage_bucket": "chat-ef91a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149469384461:android:fa0835346c21274141aa44",
+        "android_client_info": {
+          "package_name": "br.com.lucaswojahn.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149469384461-92p97a2ocg0787vbkngrvg9d95i5k59h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.lucaswojahn.chat_app",
+            "certificate_hash": "36d4a55ae96d8c0adf65bbb28c9b48cd24debb28"
+          }
+        },
+        {
+          "client_id": "149469384461-tirfpujac2qug4ti6th5l2hiestdld3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEHGbkv1cvScLJakovscc2c1nWsh7Uh-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149469384461-tirfpujac2qug4ti6th5l2hiestdld3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
