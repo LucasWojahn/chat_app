@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "149469384461-50cqmr2ggacied85gp4jd914fo5jhe86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.lucaswojahn.chat_app",
+            "certificate_hash": "abc332458d89324b05acb5c275b09eb3921049e0"
+          }
+        },
+        {
           "client_id": "149469384461-92p97a2ocg0787vbkngrvg9d95i5k59h.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
